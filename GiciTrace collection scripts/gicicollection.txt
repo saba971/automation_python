@@ -1,0 +1,130 @@
+
+path:/storage/RLAB_SMOKE_GICI_LOGS/
+
+buildno_platformname_<ch>_detail
+
+
+build_commit.py
+
+http://135.249.31.94:8080/view/SMOKE-01/job/CDASA_SRNTE_NGVR_SMOKE-01/build?delay=0sec
+
+
+command: telnet 135.249.27.3 2010 | tee 62_ERAMA_CH1_TRACES
+
+To get the details of the trace collected: cat 62_ERAMA_CH1_TRACES
+
+
+server ip:135.249.31.94
+path:/home/atxuser/saba
+filename:traceSaver.py
+
+craft_ip:135.249.27.47
+craft_port:2006
+
+Inputs:
+1.craftip:
+2.craftport:
+3.dut type:
+
+
+1.build preparation I have to start and build commit i have to end.
+
+
+1.build preparation-success proceed
+2.build download-success proceed,Failure Kill
+3.build activation-success proceed,Failure Kill
+4.build commit-sucess or failure kill
+
+work flow:
+
+1.From Build preparation -> we need to get the ISAM_IP
+2.With the help of that IP-> we need to get crat_ip,craft_port and dut_type from the created text file.
+3.we need to pass that details to tracesaver.py and start the gici collection
+
+
+
+changing the quater-test_growth.py.
+
+1.testgrowth.py
+server:10.182.197.253
+cd /var/www/cgi-bin/
+
+
+http://10.182.197.253/table.html 
+http://10.182.197.253/table2.html-my file   
+
+	
+
+Job names
+
+LEGACY_PREPARE1
+LEGACY_DOWNLOAD
+LEGACY_ACTIVATE
+LEGACY_COMMIT
+
+
+
+experiment ISAM_IP-->135.249.25.242
+
+
+Code to find the job status: whether its success or failure.
+
+url="%sapi/python"%os.environ['BUILD_URL']
+print url
+stage_name_check= eval(urllib.urlopen(url).read())
+print "check"
+	
+for i in range(0,len(stage_name_check["actions"])):
+		print i
+		if stage_name_check["actions"][i]["_class"] == "hudson.model.CauseAction" :
+			stage_name_upstreamProject=stage_name_check["actions"][i]["causes"][0]["upstreamProject"]
+			stage_name_upstreamBuild=stage_name_check["actions"][i]["causes"][0]["upstreamBuild"]
+			break
+print stage_name_upstreamProject
+print stage_name_upstreamBuild
+upstream_url="%sjob/%s/%s"%(os.environ["JENKINS_URL"],stage_name_upstreamProject,stage_name_upstreamBuild)
+print upstream_url
+upstream_url_check=eval(urllib.urlopen(upstream_url + "/api/python").read())
+
+Need to check:
+
+NFXSE_FANTF_FWLTB_OLT_SMOKE-01
+
+CDASA_SRNTE_NGVR_SMOKE-02
+
+NFXSE_FANTF_FGLTB_OLT_SMOKE-01;135.249.38.206;135.249.27.53;10008;SDFX;
+NFXSE_FANTF_FWLTB_OLT_SMOKE-01;135.249.38.205;135.249.27.53;10007;SDFX;
+
+
+if dut_type in ['REMOTE','SDFX','SDOLT','NCDPU']:
+    Username = "root"
+    Password = "2x2=4"
+else:
+    Username = "shell"
+    Password = "nt"
+
+
+NFXSF_FANTF_FTTU_SMOKE-02
+
+need to add:
+CFXRA_CFNTB_GPON_SMOKE-02
+
+
+
+Need to check:
+NFXSE_FANTF_FWLTB_OLT_SMOKE-01;135.249.38.205;135.249.27.53;10007;SDFX
+NFXSA_NANTE_FTTU_SMOKE-03;135.249.25.224;135.249.27.46;2004;DSL;135.249.27.55;10009;DSL;(NFXSE-FANTG-NC_OLT-SMOKE-02)
+RVXSA_RANTA_GPON_UPLINK_SMOKE-02_SD_6203.096p09.tar_135.249.38.20_May14151221_135.249.27.57_10023;(RVXSA-RANTA-NNI-SMOKE-02)
+
+
+Need to add:
+NFXSE-FANTF-NC_OLT-SMOKE-01;135.249.38.205---> gici ips
+135.249.25.224 --> reused ip new platform.
+135.249.38.20 & 135.249.38.203 --> need to confirm the platforms.
+135.249.38.205 --> need to check gici ip.
+
+
+NFXSE_FANTF_FWLTB_OLT_SMOKE-02;135.249.38.219;135.249.27.55;10007;SDFX;
+
+
+	
