@@ -1,0 +1,278 @@
+Deleting Builds older than 14 days---------->
+
+Proposal Deletion---------------->
+/ftpserver/RLAB/lightspan_2009.611.extra.tar
+/ftpserver/RLAB/lightspan_2009.611.tar
+/ftpserver/RLAB/lightspan_2012.069.extra.tar
+/ftpserver/RLAB/lightspan_2012.069.tar
+/ftpserver/RLAB/lightspan_2012.081.extra.tar
+/ftpserver/RLAB/lightspan_2012.081.tar
+/ftpserver/RLAB/lightspan_2012.082.extra.tar
+/ftpserver/RLAB/lightspan_2012.082.tar
+/ftpserver/RLAB/lightspan_2012.083.extra.tar
+/ftpserver/RLAB/lightspan_2012.083.tar
+/ftpserver/RLAB/lightspan_2012.084.extra.tar
+/ftpserver/RLAB/lightspan_2012.084.tar
+/ftpserver/RLAB/lightspan_2012.085.extra.tar
+/ftpserver/RLAB/lightspan_2012.085.tar
+/ftpserver/RLAB/lightspan_2012.086.extra.tar
+/ftpserver/RLAB/lightspan_2012.086.tar
+/ftpserver/RLAB/lightspan_2012.087.extra.tar
+/ftpserver/RLAB/lightspan_2012.087.tar
+/ftpserver/RLAB/lightspan_2012.088.extra.tar
+/ftpserver/RLAB/lightspan_2012.088.tar
+/ftpserver/RLAB/lightspan_2012.089.extra.tar
+/ftpserver/RLAB/lightspan_2012.089.tar
+/ftpserver/RLAB/lightspan_2012.090.extra.tar
+/ftpserver/RLAB/lightspan_2012.090.tar
+/ftpserver/RLAB/lightspan_2012.625901.extra.tar
+/ftpserver/RLAB/lightspan_2012.625901.tar
+/ftpserver/RLAB/lightspan_2012.625902.extra.tar
+/ftpserver/RLAB/lightspan_2012.625902.tar
+/ftpserver/RLAB/lightspan_2012.625903.extra.tar
+/ftpserver/RLAB/lightspan_2012.625903.tar
+/ftpserver/RLAB/lightspan_2012.625.extra.tar
+/ftpserver/RLAB/lightspan_2012.625.tar
+/ftpserver/RLAB/lightspan_2012.626901.extra.tar
+/ftpserver/RLAB/lightspan_2012.626901.tar
+/ftpserver/RLAB/lightspan_2012.626902.extra.tar
+/ftpserver/RLAB/lightspan_2012.626902.tar
+/ftpserver/RLAB/lightspan_2012.626.extra.tar
+/ftpserver/RLAB/lightspan_2012.626.tar
+/ftpserver/RLAB/lightspan_2012.982.extra.tar
+/ftpserver/RLAB/lightspan_2012.982.tar
+/ftpserver/RLAB/lightspan_2103.015.extra.tar
+/ftpserver/RLAB/lightspan_2103.015.tar
+/ftpserver/RLAB/lightspan_2103.016.extra.tar
+/ftpserver/RLAB/lightspan_2103.016.tar
+/ftpserver/RLAB/lightspan_2103.017.extra.tar
+/ftpserver/RLAB/lightspan_2103.017.tar
+/ftpserver/RLAB/lightspan_2103.018.extra.tar
+/ftpserver/RLAB/lightspan_2103.018.tar
+/ftpserver/RLAB/lightspan_2103.019.extra.tar
+/ftpserver/RLAB/lightspan_2103.019.tar
+/ftpserver/RLAB/lightspan_2103.020.extra.tar
+/ftpserver/RLAB/lightspan_2103.020.tar
+/ftpserver/RLAB/lightspan_2103.021.extra.tar
+/ftpserver/RLAB/lightspan_2103.021.tar
+/ftpserver/RLAB/lightspan_2103.022.extra.tar
+/ftpserver/RLAB/lightspan_2103.022.tar
+/ftpserver/RLAB/lightspan_2103.023.extra.tar
+/ftpserver/RLAB/lightspan_2103.023.tar
+/ftpserver/RLAB/lightspan_2103.024.extra.tar
+/ftpserver/RLAB/lightspan_2103.024.tar
+/ftpserver/RLAB/lightspan_2103.025916.extra.tar
+/ftpserver/RLAB/lightspan_2103.025916.tar
+/ftpserver/RLAB/lightspan_2103.823.extra.tar
+/ftpserver/RLAB/lightspan_2103.823.tar
+/ftpserver/RLAB/lightspan_2103.845.extra.tar
+/ftpserver/RLAB/lightspan_2103.845.tar
+/ftpserver/RLAB/lightspan_2103.856.extra.tar
+/ftpserver/RLAB/lightspan_2103.856.tar
+/ftpserver/RLAB/lightspan_6203.187.extra.tar
+/ftpserver/RLAB/lightspan_6203.187.tar
+/ftpserver/RLAB/lightspan_6203.597.extra.tar
+/ftpserver/RLAB/lightspan_6203.597.tar
+/ftpserver/RLAB/lightspan-omci_2009.611.tar
+/ftpserver/RLAB/lightspan-omci_2012.081.tar
+/ftpserver/RLAB/lightspan-omci_2012.082.tar
+/ftpserver/RLAB/lightspan-omci_2012.083.tar
+/ftpserver/RLAB/lightspan-omci_2012.084.tar
+/ftpserver/RLAB/lightspan-omci_2012.085.tar
+/ftpserver/RLAB/lightspan-omci_2012.086.tar
+/ftpserver/RLAB/lightspan-omci_2012.087.tar
+/ftpserver/RLAB/lightspan-omci_2012.088.tar
+/ftpserver/RLAB/lightspan-omci_2012.089.tar
+/ftpserver/RLAB/lightspan-omci_2012.090.tar
+/ftpserver/RLAB/lightspan-omci_2012.625901.tar
+/ftpserver/RLAB/lightspan-omci_2012.625902.tar
+/ftpserver/RLAB/lightspan-omci_2012.625903.tar
+/ftpserver/RLAB/lightspan-omci_2012.625.tar
+/ftpserver/RLAB/lightspan-omci_2012.626901.tar
+/ftpserver/RLAB/lightspan-omci_2012.626902.tar
+/ftpserver/RLAB/lightspan-omci_2012.626.tar
+/ftpserver/RLAB/lightspan-omci_2103.015.tar
+/ftpserver/RLAB/lightspan-omci_2103.016.tar
+/ftpserver/RLAB/lightspan-omci_2103.017.tar
+/ftpserver/RLAB/lightspan-omci_2103.018.tar
+/ftpserver/RLAB/lightspan-omci_2103.019.tar
+/ftpserver/RLAB/lightspan-omci_2103.020.tar
+/ftpserver/RLAB/lightspan-omci_2103.021.tar
+/ftpserver/RLAB/lightspan-omci_2103.022.tar
+/ftpserver/RLAB/lightspan-omci_2103.023.tar
+/ftpserver/RLAB/lightspan-omci_2103.024.tar
+/ftpserver/RLAB/lightspan-omci_2103.025916.tar
+/ftpserver/RLAB/lightspan-omci_6203.187.tar
+/ftpserver/RLAB/lightspan-omci_6203.597.tar
+/ftpserver/RLAB/SD_56.153.tar
+/ftpserver/RLAB/SD_58.146.tar
+/ftpserver/RLAB/SD_6002.512.extra.tar
+/ftpserver/RLAB/SD_6002.512.tar
+/ftpserver/RLAB/SD_6002.519.extra.tar
+/ftpserver/RLAB/SD_6002.519.tar
+/ftpserver/RLAB/SD_6101.373.tar
+/ftpserver/RLAB/SD_6102.489.tar
+/ftpserver/RLAB/SD_6102.495.tar
+/ftpserver/RLAB/SD_61.127.tar
+/ftpserver/RLAB/SD_6203.187.extra.tar
+/ftpserver/RLAB/SD_6203.187.tar
+/ftpserver/RLAB/SD_6203.597.extra.tar
+/ftpserver/RLAB/SD_6203.597.tar
+/ftpserver/RLAB/SD_6204.394.extra.tar
+/ftpserver/RLAB/SD_6204.394.tar
+/ftpserver/RLAB/SD_6204.396.extra.tar
+/ftpserver/RLAB/SD_6204.396.tar
+/ftpserver/RLAB/SD_6204.397.extra.tar
+/ftpserver/RLAB/SD_6204.397.tar
+/ftpserver/RLAB/SD_6204.816.extra.tar
+/ftpserver/RLAB/SD_6204.816.tar
+/ftpserver/RLAB/SD_6204.819.extra.tar
+/ftpserver/RLAB/SD_6204.819.tar
+/ftpserver/RLAB/SD_6204.820.extra.tar
+/ftpserver/RLAB/SD_6204.820.tar
+/ftpserver/RLAB/SD_6204.878.extra.tar
+/ftpserver/RLAB/SD_6204.878.tar
+/ftpserver/RLAB/SD_64.081.extra.tar
+/ftpserver/RLAB/SD_64.081.tar
+/ftpserver/RLAB/SD_64.082.extra.tar
+/ftpserver/RLAB/SD_64.082.tar
+/ftpserver/RLAB/SD_64.083.extra.tar
+/ftpserver/RLAB/SD_64.083.tar
+/ftpserver/RLAB/SD_64.084.extra.tar
+/ftpserver/RLAB/SD_64.084.tar
+/ftpserver/RLAB/SD_64.085.extra.tar
+/ftpserver/RLAB/SD_64.085.tar
+/ftpserver/RLAB/SD_64.086.extra.tar
+/ftpserver/RLAB/SD_64.086.tar
+/ftpserver/RLAB/SD_64.087.extra.tar
+/ftpserver/RLAB/SD_64.087.tar
+/ftpserver/RLAB/SD_64.088.extra.tar
+/ftpserver/RLAB/SD_64.088.tar
+/ftpserver/RLAB/SD_64.089.extra.tar
+/ftpserver/RLAB/SD_64.089.tar
+/ftpserver/RLAB/SD_64.090.extra.tar
+/ftpserver/RLAB/SD_64.090.tar
+/ftpserver/RLAB/SD_64.558.extra.tar
+/ftpserver/RLAB/SD_64.558.tar
+/ftpserver/RLAB/SD_64.625901.extra.tar
+/ftpserver/RLAB/SD_64.625901.tar
+/ftpserver/RLAB/SD_64.625902.extra.tar
+/ftpserver/RLAB/SD_64.625902.tar
+/ftpserver/RLAB/SD_64.625903.extra.tar
+/ftpserver/RLAB/SD_64.625903.tar
+/ftpserver/RLAB/SD_64.625.extra.tar
+/ftpserver/RLAB/SD_64.625.tar
+/ftpserver/RLAB/SD_64.626901.extra.tar
+/ftpserver/RLAB/SD_64.626901.tar
+/ftpserver/RLAB/SD_64.626902.extra.tar
+/ftpserver/RLAB/SD_64.626902.tar
+/ftpserver/RLAB/SD_64.626.extra.tar
+/ftpserver/RLAB/SD_64.626.tar
+/ftpserver/RLAB/SD_65.015.extra.tar
+/ftpserver/RLAB/SD_65.015.tar
+/ftpserver/RLAB/SD_65.016.extra.tar
+/ftpserver/RLAB/SD_65.016.tar
+/ftpserver/RLAB/SD_65.017.extra.tar
+/ftpserver/RLAB/SD_65.017.tar
+/ftpserver/RLAB/SD_65.018.extra.tar
+/ftpserver/RLAB/SD_65.018.tar
+/ftpserver/RLAB/SD_65.019.extra.tar
+/ftpserver/RLAB/SD_65.019.tar
+/ftpserver/RLAB/SD_65.020.extra.tar
+/ftpserver/RLAB/SD_65.020.tar
+/ftpserver/RLAB/SD_65.021.extra.tar
+/ftpserver/RLAB/SD_65.021.tar
+/ftpserver/RLAB/SD_65.022.extra.tar
+/ftpserver/RLAB/SD_65.022.tar
+/ftpserver/RLAB/SD_65.023.extra.tar
+/ftpserver/RLAB/SD_65.023.tar
+/ftpserver/RLAB/SD_65.024.extra.tar
+/ftpserver/RLAB/SD_65.024.tar
+/ftpserver/RLAB/SD_65.025916.extra.tar
+/ftpserver/RLAB/SD_65.025916.tar
+/ftpserver/RLAB/SD_65.823.extra.tar
+/ftpserver/RLAB/SD_65.823.tar
+/ftpserver/RLAB/SD_65.845.extra.tar
+/ftpserver/RLAB/SD_65.845.tar
+/ftpserver/RLAB/SD_65.856.extra.tar
+/ftpserver/RLAB/SD_65.856.tar
+/ftpserver/RLAB/SD_65.888.extra.tar
+/ftpserver/RLAB/SD_65.888.tar
+/ftpserver/RLAB/SD_65.927.extra.tar
+/ftpserver/RLAB/SD_65.927.tar
+/ftpserver/RLAB/SD_65.930.extra.tar
+/ftpserver/RLAB/SD_65.930.tar
+/ftpserver/RLAB/ZAGRAA2103.025916.tar
+/ftpserver/RLAB/ZAGRAA2103.856.tar
+ZAGRAA Deletion
+/ftpserver/RLAB/ZAGRAA2103.025916.tar
+/ftpserver/RLAB/ZAGRAA2103.856.tar
+lightspan_2103 deletion
+lightspan_2103 Not deleted Build---->
+/ftpserver/RLAB/lightspan_2103.019.extra.tar
+lightspan_2103 Not deleted Build---->
+/ftpserver/RLAB/lightspan_2103.019.tar
+lightspan_2103 deleted Build------>
+/ftpserver/RLAB/lightspan_2103.025916.extra.tar
+lightspan_2103 deleted Build------>
+/ftpserver/RLAB/lightspan_2103.025916.tar
+lightspan_2103 Not deleted Build---->
+Not deleted
+/ftpserver/RLAB/lightspan_2103.019.extra.tar
+lightspan_2103 deleted Build------>
+/ftpserver/RLAB/lightspan_2103.025916.extra.tar
+SD_65 deletion
+65 Not deleted Build-------->
+/ftpserver/RLAB/SD_65.019.extra.tar
+65 Not deleted Build-------->
+/ftpserver/RLAB/SD_65.019.tar
+65 deleted Build---->
+/ftpserver/RLAB/SD_65.025916.extra.tar
+65 deleted Build---->
+/ftpserver/RLAB/SD_65.025916.tar
+65 Not deleted Build--------->
+/ftpserver/RLAB/SD_65.019.extra.tar
+65 deleted Build-------->
+/ftpserver/RLAB/SD_65.025916.extra.tar
+2103-omci deletion
+lightspan-omci_2103 Not deleted Build----->
+/ftpserver/RLAB/lightspan-omci_2103.019.tar
+lightspan-omci_2103 Deleted Build------>
+/ftpserver/RLAB/lightspan-omci_2103.025916.tar
+lightspan_2012 deletion
+ lightspan_2012 Not deleted------>
+/ftpserver/RLAB/lightspan_2012.069.extra.tar
+ lightspan_2012 Not deleted------>
+/ftpserver/RLAB/lightspan_2012.069.tar
+ lightspan_2012 Not deleted------>
+/ftpserver/RLAB/lightspan_2012.089.extra.tar
+ lightspan_2012 Not deleted------>
+/ftpserver/RLAB/lightspan_2012.089.tar
+ lightspan_2012 Not deleted------>
+/ftpserver/RLAB/lightspan_2012.090.extra.tar
+ lightspan_2012 Not deleted------>
+/ftpserver/RLAB/lightspan_2012.090.tar
+ lightspan_2012 Not deleted------>
+/ftpserver/RLAB/lightspan_2012.069.extra.tar
+ lightspan_2012 Not deleted------>
+/ftpserver/RLAB/lightspan_2012.089.extra.tar
+ lightspan_2012 Not deleted------>
+/ftpserver/RLAB/lightspan_2012.090.extra.tar
+SD_64 deletion
+64 Not deleted Build----->
+/ftpserver/RLAB/SD_64.089.extra.tar
+64 Not deleted Build----->
+/ftpserver/RLAB/SD_64.089.tar
+64 Not deleted Build----->
+/ftpserver/RLAB/SD_64.090.extra.tar
+64 Not deleted Build----->
+/ftpserver/RLAB/SD_64.090.tar
+64 Not deleted Build----->
+/ftpserver/RLAB/SD_64.089.extra.tar
+64 Not deleted Build----->
+/ftpserver/RLAB/SD_64.090.extra.tar
+omci deletion
+lightspan-omci_2012 Not deleted Build------>
+/ftpserver/RLAB/lightspan-omci_2012.089.tar
+lightspan-omci_2012 Not deleted Build------>
+/ftpserver/RLAB/lightspan-omci_2012.090.tar
