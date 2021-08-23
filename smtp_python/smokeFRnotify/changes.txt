@@ -1,0 +1,2 @@
+    if (var.group(2) == "R6.1" or var.group(2) == "R6.0.01" or var.group(2) == "R6.1.01"):
+
